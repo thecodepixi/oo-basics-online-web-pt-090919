@@ -12,6 +12,6 @@ class Shoe
   end 
   
   def cobble 
-    @condition = "new"
+    @condition = "new"learn spec/02_shoe_spec.rb
   end 
 end 
